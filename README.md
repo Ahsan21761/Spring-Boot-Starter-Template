@@ -15,8 +15,8 @@ Use it as a reference, or fork it as the foundation for your next service.
 
 ## Badges
 
-<!-- Replace `your-username` with your GitHub handle after publishing. -->
-![CI](https://github.com/your-username/spring-boot-starter-template/actions/workflows/ci.yml/badge.svg)
+
+![CI](https://github.com/Ahsan Khan/spring-boot-starter-template/actions/workflows/ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
